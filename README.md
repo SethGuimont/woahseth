@@ -17,15 +17,20 @@
            <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
          </h1>
     </div>
+
 ---
+
 ### 🥋 About Me : 
 
 I am a Software Engineer that spends most of his work day writing Selenium tests or fixing Sonar Smells.
 - 🚴‍♂️: In my free time, I love biking, Jiu-Jitsu, and make fun things in Flask.
 - 🔥: Currently learning Mojo and Rust.
 -  🧟: I also love horror movies and scary video games.  
---
+
+---
+
 ### 🛠️: Languages and Tools:
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -35,7 +40,9 @@ I am a Software Engineer that spends most of his work day writing Selenium tests
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Git" alt="Git" width="40" height="40" />&nbsp;
 </div>
+
 ---
+
 ### 🔥 My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SethGuimont&theme=dark&background=000000)](https://git.io/streak-stats)
