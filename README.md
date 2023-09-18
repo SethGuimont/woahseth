@@ -7,7 +7,7 @@
         <a href="your-youtube-URL">
           <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
         </a>
-        <a href="https://kayla-day.github.io/">  
+        <a href="https://sethguimont.github.io/">  
           <img src="https://img.shields.io/badge/portfolio-orange?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages Portfolio Website Badge"/>
         </a>     
      </div>
@@ -18,7 +18,9 @@
          </h1>
     </div>
 ---
-### 🥋 About Me : I am a Software Engineer that spends most of his work day writing Selenium tests or fixing Sonar Smells.
+### 🥋 About Me : 
+
+I am a Software Engineer that spends most of his work day writing Selenium tests or fixing Sonar Smells.
 - 🚴‍♂️: In my free time, I love biking, Jiu-Jitsu, and make fun things in Flask.
 - 🔥: Currently learning Mojo and Rust.
 -  🧟: I also love horror movies and scary video games.  
